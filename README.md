@@ -1,3 +1,4 @@
+# Proyecto de moneda social
 ## Objetivos generales
    - Cuando el grupo promotor crezca lo suficiente generar un nombre para la moneda
    - Usar la plataforma digital creada por la moneda social de Córdoba como herramienta para los intercambios
